@@ -1,1 +1,5 @@
+Merging both the tables to get insights (NW, RN)
+
 Analyse desk occupancy from sensor data (Razor Neevan)
+
+Add Organisation data table to sensor data (Naveen William)
